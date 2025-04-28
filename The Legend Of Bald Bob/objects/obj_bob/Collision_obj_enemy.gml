@@ -6,11 +6,7 @@
 /// @DnDArgument : "var" "lives"
 lives += -1;
 
-/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+/// @DnDAction : YoYo Games.Movement.Jump_To_Start
 /// @DnDVersion : 1
-/// @DnDHash : 65AB6C25
-/// @DnDArgument : "x" "5"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "0"
-/// @DnDArgument : "y_relative" "1"
-x += 5;y += 0;
+/// @DnDHash : 16BBF1F8
+x = xstart;y = ystart;
