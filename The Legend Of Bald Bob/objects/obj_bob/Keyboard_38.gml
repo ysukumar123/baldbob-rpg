@@ -9,3 +9,12 @@ speed = 2;
 /// @DnDHash : 7E5E5BFF
 /// @DnDArgument : "direction" "90"
 direction = 90;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 5E994684
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "spr_bob_up"
+/// @DnDSaveInfo : "spriteind" "spr_bob_up"
+sprite_index = spr_bob_up;
+image_index += 0;
